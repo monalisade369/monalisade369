@@ -1,7 +1,7 @@
-![logo](https://github.com/Akash420-oss/Akash420-oss/blob/main/skull_banner.png)
+![logo](https://github.com/monalisade369/monalisade369/blob/main/anime_banner_wall.jpg)
 <h1 align="center" color="#5D3FD3">꧁༺𝓜𝓸𝓷𝓪𝓛𝓲𝓼𝓪 𝓓𝓮༻꧂</h1>
 <h2 align="center" color="blue">𝔼𝕩𝕡𝕝𝕠𝕣𝕖 𝕄𝕪 𝕎𝕠𝕣𝕝𝕕 ℍ𝕖𝕣𝕖</h2>
-<h3 align="center" color="#A020F0">¨˜ˆ”°⍣~•✡⊹٭„¸ꜱᵢԼₑ𝑛𝑡 𝑠𝑡ᵣₑ𝑛𝑔𝑡ⲏ 𝑠𝒑ₑₐⲕ𝑠 ᵥₒԼᵤ𝑚ₑ𝑠 ᵢ𝑛 ₐ ｗₒᵣԼ𝑑 ₒ𝑓 𝑛ₒᵢ𝑠ₑ¸„٭⊹✡•~⍣°”ˆ˜¨</h3>
+<h3 align="center" color="#A020F0">¨˜ˆ”°⍣~•✡⊹٭ꜱᵢԼₑ𝑛𝑡 𝑠𝑡ᵣₑ𝑛𝑔𝑡ⲏ 𝑠𝒑ₑₐⲕ𝑠 ᵥₒԼᵤ𝑚ₑ𝑠 ᵢ𝑛 ₐ ｗₒᵣԼ𝑑 ₒ𝑓 𝑛ₒᵢ𝑠ₑ٭⊹✡•~⍣°”ˆ˜¨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisade369&label=Profile%20views&color=0e75b6&style=flat" alt="monalisade369" /> </p>
 
 <h3 alignt="left">ΛBӨЦƬ MΣ: ︻╦̵̵̿╤─ ҉~•</h3>
@@ -21,7 +21,7 @@
 <h3 align="left">𐌋𐌀𐌍ᏵꝊ𐌔 & 𐌕ꝊꝊ𐌋Ɀ:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img
 src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> </a> <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img
-src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalisade369&show_icons=true&locale=en&layout=compact&theme=gotham" alt="monalisade369" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=monalisade369&theme=gotham" alt="monalisade369" /></p>
