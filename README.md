@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monalisade369&label=Profile%20views&color=0e75b6&style=flat" alt="monalisade369" /> </p>
 
 <h3 alignt="left">ΛBӨЦƬ MΣ: ︻╦̵̵̿╤─ ҉~•</h3>
-<img align="right"width="200"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNxZWxnOXp3NDdvZGV2dDZsajRibzBsdGxibWZzb2s3dW04N3FqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
+<img align="right"width="200"src="https://github.com/monalisade369/monalisade369/blob/main/girl_coding.gif">
 
 - 😉 I'm on a journey to teach machines how to learn sprinkled with a spoonful of sugar and a pinch of curiosity...
 - 🛡️ Fluent in the language of code, from the elegant dance of Python to the rhythmic beats of C and Java...
